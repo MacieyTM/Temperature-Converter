@@ -1,1 +1,1 @@
-# Temperature-Converter
+# Aplikacja z konwerterem temperatury:
